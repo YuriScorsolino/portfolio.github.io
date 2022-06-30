@@ -54,29 +54,29 @@ main.cards section.card button {
 }
 
 main.cards section.card.whatsapp button {
-  background: linear-gradient(to right, #9F66FF, #DFCBFF);
+  background: linear-gradient(to right, #000000, #524e4e);
 }
 main.cards section.card.linkedin button {
-  background: linear-gradient(to right, #3E8AFF, #BBDEFF);
+  background: linear-gradient(to right, #000000, #524e4e);
 }
 main.cards section.card.outlook button {
-  background: linear-gradient(to right, #FE5F8F, #FFC7D9);
+  background: linear-gradient(to right, #000000, #524e4e);
 }
 main.cards section.card.github button {
-  background: linear-gradient(to right, #5ffec9, #c7fff6);
+  background: linear-gradient(to right, #000000, #524e4e);
 }
 
 main.cards section.card.whatsapp {
-  box-shadow: 20px 20px 50px -30px #DBC4FF;
+  box-shadow: 20px 20px 50px -30px #000000;
 }
 main.cards section.card.linkedin {
-  box-shadow: 20px 20px 50px -30px #AFD6FF;
+  box-shadow: 20px 20px 50px -30px #000000;
 }
 main.cards section.card.outlook {
-  box-shadow: 20px 20px 50px -30px #FFC1D5;
+  box-shadow: 20px 20px 50px -30px #000000;
 }
 main.cards section.card.github {
-  box-shadow: 20px 20px 50px -30px #c1ffea;
+  box-shadow: 20px 20px 50px -30px #000000;
 }
 
 @media screen and (max-width: 720px) {
