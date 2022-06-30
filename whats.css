@@ -2,7 +2,7 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 body{
-  background-color: #35373a
+  background-color: #d3d3d3
 }
 .container{
   display: flex;
@@ -86,7 +86,7 @@ filter: invert(1);
   margin-left: 10%;
   font-size: 30px;
   font-family: Arial, Helvetica, sans-serif;
-  color: rgb(255, 255, 255);
+  color: rgb(8, 5, 5);
 }
 
 @media screen and (min-width: 300px) {
@@ -112,12 +112,12 @@ hr
 
 #sobremim
 {
-color: aqua;
+color: rgb(4, 5, 5);
 font-size: 25px;
 font-family: Arial, Helvetica, sans-serif;
 }
 h1{
-  color: white;
+  color: black;
 }
 .text-center{
   margin-top: 3%;
